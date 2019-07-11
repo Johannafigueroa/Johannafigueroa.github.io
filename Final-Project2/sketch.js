@@ -1,10 +1,8 @@
-function setup()
-{  
-   createCanvas(800, 400);
-   background('https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Kermit_the_Frog.jpg/220px-Kermit_the_Frog.jpg');
+function setup() {
+  var canvas = createCanvas(800, 400);
+  canvas.parent('sketch-holder');
    noStroke();
 }
-
 function draw()
 {
     drawCircle();
