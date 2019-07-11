@@ -1,5 +1,5 @@
 body{
-	background-color: #E6FFFF;
+	background-color: #a0c5cf;
 }
 p{
 	text-indent: 80px;
@@ -12,7 +12,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #2F3852;
+    background-color: #005f89;
 }
 li{
 display:inline;
@@ -20,7 +20,7 @@ display:inline;
 }
 li a{
  display: block;
- background-color:#2F3852;
+ background-color:#005f89;
       display: block;
     color: white;
     text-align: right;
@@ -28,5 +28,5 @@ li a{
     text-decoration:none;
 }
 a:hover{
- color: yellow;   
+ color: #e6eceb;   
 }
