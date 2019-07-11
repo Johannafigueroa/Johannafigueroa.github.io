@@ -4,3 +4,29 @@ body{
 p{
 	text-indent: 80px;
 }
+#nav{
+  float: right;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+li{
+display:inline;
+    float:right;
+}
+li a{
+ display: block;
+ background-color:black;
+      display: block;
+    color: white;
+    text-align: right;
+    padding: 10px 14px;
+    text-decoration:none;
+}
+a:hover{
+ color: yellow;   
+}
