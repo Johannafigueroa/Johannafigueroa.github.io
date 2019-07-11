@@ -33,5 +33,5 @@ h1{
   float: center;
 }
 #all{
-      style: inline;
+      display: inline;
 }
