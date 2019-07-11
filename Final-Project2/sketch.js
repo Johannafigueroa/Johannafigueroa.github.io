@@ -1,6 +1,6 @@
 function setup() {
   var canvas = createCanvas(800, 400);
-  canvas.parent('sketch-holder');
+  canvas.parent('patrick-stump');
    noStroke();
 }
 function draw()
