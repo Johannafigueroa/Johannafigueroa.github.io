@@ -1,6 +1,6 @@
       
 body{
-    bakground: #E6FFFF;   
+    bakground: #a0c5cf;   
 }
 
 #nav{
@@ -11,7 +11,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: black;
+    background-color: #005f89;
 }
 li{
 display:inline;
@@ -19,7 +19,7 @@ display:inline;
 }
 li a{
  display: block;
- background-color:black;
+ background-color:#005f89;
       display: block;
     color: white;
     text-align: right;
@@ -27,7 +27,7 @@ li a{
     text-decoration:none;
 }
 a:hover{
- color: deepskyblue;   
+ color: e6eceb;   
 }
 h1{
   float: center;
