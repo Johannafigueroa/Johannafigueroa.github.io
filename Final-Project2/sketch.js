@@ -14,6 +14,9 @@ function drawCircle()
     fill('grey');
     background('black');
     ellipse(mouseX, mouseY, 25, 25);
+     if (mouseX > width/1.1) {
+    rect(700, 100, 100, 100);
+  }
     
 }
 
