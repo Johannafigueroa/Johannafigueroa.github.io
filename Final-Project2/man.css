@@ -1,8 +1,8 @@
 body{
-	background-color: #a0c5cf;
+  background-color: #a0c5cf;
 }
 p{
-	text-indent: 80px;
+  text-indent: 80px;
 }
 #nav{
   float: right;
@@ -24,9 +24,19 @@ li a{
       display: block;
     color: white;
     text-align: right;
-    padding: 10px 14px;
+    padding: 10px 15px;
     text-decoration:none;
 }
 a:hover{
  color: #e6eceb;   
 }
+h1{
+  float: center;
+}
+#all{
+      display: inline-block;
+}
+#map {
+        height: 400px;
+        width: 100%;
+       }
