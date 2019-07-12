@@ -2,7 +2,6 @@ let img;
 function setup() {
   var canvas = createCanvas(800, 400);
   canvas.parent('patrick-stump');
-	createCanvas(100,200);
 	img = loadImage('bru.jpg');
    noStroke();
 }
