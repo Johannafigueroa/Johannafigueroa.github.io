@@ -9,15 +9,14 @@ function draw()
     drawFace();
     if (mouseX > width/1.1) {
       background('black');
-      fill('grey');
-    rect(700, 100, 100, 100);
+     drawAJR();
 }
 
 function drawCircle()
-{
-    fill('grey');
+{   noStroke();
+    fill('blue');
     background('black');
-    ellipse(mouseX, mouseY, 25, 25);
+    ellipse(mouseX, mouseY, 30, 30);
 
   }
     
@@ -25,10 +24,21 @@ function drawCircle()
 
 function drawFace()
 {
+    noStroke();
     fill(229, 194, 152);
     ellipse(775, 200, 100, 200);
     triangle(720, 185, 730, 160, 725, 185);
     fill('black');
     ellipse(725, 235, 50, 50);
     ellipse(765, 150, 10, 20);
+}
+
+function drawAJR(){
+ stroke('white');
+    line(300,100,505,320);
+    line(505,100,300,320);
+    textSize(32);
+    fill('yellow');
+    textFont('Helvetica');
+    text('a 100 bad days make a 100 good stories',10,60);
 }
