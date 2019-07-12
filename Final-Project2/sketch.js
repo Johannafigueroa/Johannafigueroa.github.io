@@ -1,4 +1,8 @@
+let img;
+
 function setup() {
+  createCanvas(720, 400);
+  img = loadImage('e4d769742a76da9dba84a36ca541413f.jpg');
   var canvas = createCanvas(800, 400);
   canvas.parent('patrick-stump');
    noStroke();
@@ -10,6 +14,10 @@ function draw()
     if (mouseX > width/1.1) {
       background('black');
      drawAJR();
+    image(img, 0, 0, img.width / 4, img.height / 4);
+    noStroke();
+    fill('red');
+    ellipse(10,10,10,10);
 }
 
 function drawCircle()
