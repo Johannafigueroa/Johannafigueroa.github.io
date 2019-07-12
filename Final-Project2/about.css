@@ -32,7 +32,7 @@ a:hover{
  color: #e6eceb;   
 }
 h1{
-  float: center;
+  text-align: center;
 }
 #all{
       display: inline-block;
