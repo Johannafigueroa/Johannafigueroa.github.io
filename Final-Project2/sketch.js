@@ -5,6 +5,12 @@ function setup() {
 	img = loadImage('bru.jpg');
    noStroke();
 }
+var img = document.createElement("img");
+ 
+img.src = "https://i.ytimg.com/vi/XrWuFUSELrg/maxresdefault.jpg";
+var src = document.getElementById("x");
+ 
+src.appendChild(img);
 function draw()
 {
     mapoof(); 
