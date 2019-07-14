@@ -40,5 +40,5 @@ function drawAJR(){
     textSize(32);
     fill('yellow');
     textFont('Helvetica');
-    text('a 100 bad days make a 100 good stories',10,60);
+    text(' lead as 1 of 10 chemicals of major public health concern- world health organization',10,60);
 }
