@@ -1,19 +1,15 @@
-let img;
 function setup() {
   var canvas = createCanvas(800, 400);
- canvas.parent('patrick-stump');
-	img = loadImage('bru.jpg');
+  canvas.parent('patrick-stump');
    noStroke();
-}  
+}
 function draw()
 {
-    mapoof(); 
     drawCircle();
     drawFace();
     if (mouseX > width/1.1) {
       background('black');
      drawAJR();
-     
 }
 
 function drawCircle()
@@ -35,12 +31,6 @@ function drawFace()
     fill('black');
     ellipse(725, 235, 50, 50);
     ellipse(765, 150, 10, 20);
-}
-function mapoof(){
-	image(img, 0, 0, img.width / 4, img.height / 4);
-  noStroke();
-  fill('red');
-  ellipse(10,10,10,10);
 }
 
 function drawAJR(){
