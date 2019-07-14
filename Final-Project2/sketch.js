@@ -9,7 +9,7 @@ function draw() {
   mapoof();
 }
 function mapoof(){
-	image(img, 0, 0, img.width / 4, img.height / 4);
+  image(img, 0, 0, img.width / 4, img.height / 4);
   noStroke();
   fill('red');
   ellipse(400,150,10,10);
