@@ -1,3 +1,4 @@
+let imag;
 var img = document.createElement("img");
 function setup() {
   var canvas = createCanvas(800, 400);
