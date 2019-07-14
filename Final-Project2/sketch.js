@@ -12,5 +12,5 @@ function mapoof(){
 	image(img, 0, 0, img.width / 4, img.height / 4);
   noStroke();
   fill('red');
-  ellipse(10,10,10,10);
+  ellipse(10,10,200,200);
 }
