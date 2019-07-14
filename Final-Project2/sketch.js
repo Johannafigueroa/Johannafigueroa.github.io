@@ -1,12 +1,8 @@
-let imag;
-var img = document.createElement("img");
+let img;
 function setup() {
   var canvas = createCanvas(800, 400);
  canvas.parent('patrick-stump');
 	img = loadImage('bru.jpg');
-img.src = "https://i.ytimg.com/vi/XrWuFUSELrg/maxresdefault.jpg";
-var src = document.getElementById("x");
-src.appendChild(img);
    noStroke();
 }  
 function draw()
