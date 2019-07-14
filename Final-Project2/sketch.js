@@ -1,12 +1,10 @@
-let img;
+var img = document.createElement("img");
 function setup() {
   var canvas = createCanvas(800, 400);
   canvas.parent('patrick-stump');
 	img = loadImage('bru.jpg');
    noStroke();
-}
-var img = document.createElement("img");
- 
+} 
 img.src = "https://i.ytimg.com/vi/XrWuFUSELrg/maxresdefault.jpg";
 var src = document.getElementById("x");
  
