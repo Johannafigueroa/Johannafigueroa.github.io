@@ -5,6 +5,10 @@ body{
   background-color: #a0c5cf;
   text-align:center;
 }
+#prince{
+background-color: #a0c5cf;
+text-align: none;
+}
 p{
   text-indent: 80px;
 }
