@@ -21,15 +21,15 @@ function mapoof(){
   //West Virginia
   ellipse(420,155,10,10);
   //Connecticut
-  ellipse(489,100,10,10);
+  ellipse(489,95,10,10);
   //Wisconsin
   ellipse(330,80,10,10);
   //Rhode Island
-  ellipse(10,10,10,10);
+  ellipse(499,95,10,10);
   //Ohio
-  ellipse(10,10,10,10);
+  ellipse(400,140,10,10);
   //Pennsylvania
-  ellipse(10,10,10,10);
+  ellipse(450,185,10,10);
   //New York
-  ellipse(10,10,10,10);
+  ellipse(460,75,10,10);
 }
