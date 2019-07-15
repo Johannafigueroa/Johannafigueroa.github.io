@@ -21,9 +21,9 @@ function mapoof(){
   //West Virginia
   ellipse(420,155,10,10);
   //Connecticut
-  ellipse(289,100,10,10);
+  ellipse(489,100,10,10);
   //Wisconsin
-  ellipse(10,10,10,10);
+  ellipse(330,80,10,10);
   //Rhode Island
   ellipse(10,10,10,10);
   //Ohio
