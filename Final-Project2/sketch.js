@@ -13,7 +13,7 @@ function mapoof(){
   noStroke();
   fill('red');
   //Indiana
-  ellipse(370,140,10,10);
+  ellipse(365,140,10,10);
   //Vermont
   ellipse(480,60,10,10);
   //New Hampshire
