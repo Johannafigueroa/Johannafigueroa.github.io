@@ -14,7 +14,7 @@ function mapoof(){
   fill('red');
   ellipse(370,140,10,10);
   ellipse(470,100,10,10);
-  ellipse(10,10,10,10);
+  ellipse(480,100,10,10);
   ellipse(10,10,10,10);
   ellipse(10,10,10,10);
   ellipse(10,10,10,10);
