@@ -7,6 +7,11 @@ function setup() {
 
 function draw() {
   mapoof();
+  //Indiana Dot
+  if (mouseX >= 360 && mouseX <= 370 && mouseY >= 135 && mouseY <= 145){
+    textSize(20);
+    text('Hello',100,100);
+  }
 }
 function mapoof(){
   image(img, 0, 0, img.width / 4, img.height / 4);
