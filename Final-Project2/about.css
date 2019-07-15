@@ -3,6 +3,7 @@
 }
 body{
   background-color: #a0c5cf;
+ text-align:center;
 }
 #prince{
 background-color: #a0c5cf;
@@ -36,12 +37,6 @@ li a{
 }
 a:hover{
  color: #e6eceb;   
-}
-h1{
-
-}
-#boi{
-text-indent: 45px;
 }
 #giocontact{
  
