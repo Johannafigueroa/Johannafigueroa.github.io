@@ -17,7 +17,7 @@ function mapoof(){
   //Vermont
   ellipse(480,60,10,10);
   //New Hampshire
-  ellipse(495,60,10,10);
+  ellipse(490,70,10,10);
   //West Virginia
   ellipse(390,145,10,10);
   //Connecticut
