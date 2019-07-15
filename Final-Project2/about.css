@@ -39,17 +39,48 @@ a:hover{
  color: #e6eceb;   
 }
 #giocontact{
- float: left;
+  text-align: center;
+    border-style: solid;
+    border-bottom: 3px solid green;
+    padding: 1em;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #hoangcontact{
- float: left;
+   text-align: center;
+    border-style: solid;
+    border-bottom: 3px solid green;
+    padding: 1em;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #noahcontact{
- float: left; 
+  text-align: center;
+    border-style: solid;
+    border-bottom: 3px solid green;
+    padding: 1em;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #Johannacontact {
+   text-align: center;
+    border-style: solid;
+    border-bottom: 3px solid green;
+    padding: 1em;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #arthurcontact{
-float: left;
+  text-align: center;
+    border-style: solid;
+    border-bottom: 3px solid green;
+    padding: 1em;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
