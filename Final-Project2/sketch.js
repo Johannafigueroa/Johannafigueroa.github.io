@@ -29,7 +29,7 @@ function mapoof(){
   //Ohio
   ellipse(400,140,10,10);
   //Pennsylvania
-  ellipse(445,115,10,10);
+  ellipse(445,113,10,10);
   //New York
   ellipse(460,75,10,10);
 }
