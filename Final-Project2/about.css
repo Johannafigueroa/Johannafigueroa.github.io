@@ -6,7 +6,13 @@ body{
  text-align:center;
 }
 h1{
-text-align:center;
+ text-align:center;
+margin-inline-start:0px;
+margin-inline-end:0px;
+padding-left:0px;
+padding-right:0px;
+padding: 0px;
+font-size:xx-large;
 }
 #prince{
 background-color: #a0c5cf;
