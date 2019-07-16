@@ -7,6 +7,7 @@ function setup() {
 
 function draw() {
   mapoof();
+  fill('black');
   //Indiana Dot
   if (mouseX >= 360 && mouseX <= 370 && mouseY >= 135 && mouseY <= 145){
     textSize(20);
