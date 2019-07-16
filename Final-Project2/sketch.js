@@ -10,8 +10,8 @@ function draw() {
   fill('black');
   //Indiana Dot
   if (mouseX >= 360 && mouseX <= 370 && mouseY >= 135 && mouseY <= 145){
-    textSize(20);
-    text('Hello',100,100);
+    textSize(10);
+    text('Percent of children with elevated lead levels: 0.54% Toxic chemicals: 153,044,979 lbs Pounds of chemicals per capita: 23.49',100,100,70,80);
   }
 }
 function mapoof(){
