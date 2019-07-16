@@ -5,6 +5,9 @@ body{
   background-color: #a0c5cf;
  text-align:center;
 }
+#b{
+float:right;
+}
 h1{
  text-align:center;
 margin-inline-start:0px;
