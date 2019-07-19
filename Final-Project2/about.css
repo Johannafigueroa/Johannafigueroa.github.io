@@ -80,10 +80,10 @@ a:hover{
  color: #e6eceb;   
 }
 #giocontact{
-
+float:left;
 }
 #hoangcontact{
- 
+ float:right;
 }
 #noahcontact{
    
