@@ -81,18 +81,22 @@ a:hover{
 }
 #giocontact{
 float:left;
+ max-width: 25%;
 }
 #hoangcontact{
  float:right;
+ max-width:25%
 }
 #noahcontact{
    float:left;
+ max-width:25%
 }
 #Johannacontact {
 float:center;
-
+max-width:25%
 }
 #arthurcontact{
  float:right;
+ max-width: 25%
 
 }
